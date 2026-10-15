@@ -19,7 +19,7 @@ Tools I use in labs and projects: **Python, Linux, Nmap, Wireshark, Burp Suite a
 | Project | What it explores | Links |
 | --- | --- | --- |
 | **Interactive portfolio** | A game-like portfolio built with Next.js, TypeScript and Pixi.js | [Live](https://scirtor.com) · [Code](https://github.com/Scirtor/interactive-cv) |
-| **Lost & Found** | A Django/PostgreSQL web application for lost and found items | [Live](https://lostfound.scirtor.com) |
+| **Lost & Found** | A Django/PostgreSQL web application for lost and found items | [Live](https://lostfound.scirtor.com) · [Code](https://github.com/Scirtor/django-project) |
 | **Catygan** | A Unity/C# game-jam project: collect symbols and craft cats in 60-second rounds | [Play / download](https://scirtor.itch.io/catygan) |
 | **Cryptography practice** | Course notes, algorithm implementations and exercises | [Repository](https://github.com/Scirtor/cryptofraphy_aitu_2nd_course) |
 
