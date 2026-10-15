@@ -1,16 +1,40 @@
-## Hi there 👋
+# Nurzhan Bekmurat · Scirtor
 
-<!--
-**Scirtor/Scirtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Cybersecurity Specialist — Penetration Testing & SOC Analysis**
 
-Here are some ideas to get you started:
+I combine CTF practice and blue-team labs with software and game development. I enjoy understanding how systems behave, investigating findings and building practical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://scirtor.com) · [LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82-996863316/) · [Games on itch.io](https://scirtor.itch.io) · [Minecraft on YouTube](https://www.youtube.com/@adori.eterno)
+
+## Security focus
+
+- **Web security:** vulnerability analysis, OWASP coursework and practice with Burp Suite.
+- **SOC foundations:** network traffic analysis, security investigation and blue-team labs.
+- **CTFs & OSINT:** tracing evidence, testing ideas and documenting the reasoning.
+
+Tools I use in labs and projects: **Python, Linux, Nmap, Wireshark, Burp Suite and Git**.
+
+## Selected work
+
+| Project | What it explores | Links |
+| --- | --- | --- |
+| **Interactive portfolio** | A game-like portfolio built with Next.js, TypeScript and Pixi.js | [Live](https://scirtor.com) · [Code](https://github.com/Scirtor/interactive-cv) |
+| **Lost & Found** | A Django/PostgreSQL web application for lost and found items | [Live](https://lostfound.scirtor.com) |
+| **Catygan** | A Unity/C# game-jam project: collect symbols and craft cats in 60-second rounds | [Play / download](https://scirtor.itch.io/catygan) |
+| **Cryptography practice** | Course notes, algorithm implementations and exercises | [Repository](https://github.com/Scirtor/cryptofraphy_aitu_2nd_course) |
+
+I also developed **Star Jump**, a Python/Pygame platformer, for my college graduation project.
+
+## Hands-on learning
+
+- Completed the [Qradar101 blue-team lab on CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/achievements/fastboy335/qradar101/).
+- Earned Cisco's [Junior Cybersecurity Analyst Career Path badge](https://www.credly.com/badges/e66123ee-1e80-47ec-ba6f-93b8f1f339dc).
+- Completed coursework in penetration testing, threat hunting, OWASP, networking and Linux.
+- Graduated from college in Information Systems; continuing cybersecurity education at Astana IT University.
+
+## Beyond security
+
+I make games, experiment with interactive web experiences and create Minecraft content as **Adori (Eterno)**.
+
+**Open to Junior Penetration Tester and Junior SOC Analyst opportunities.** Connect with me on [LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82-996863316/).
+
