@@ -4,7 +4,7 @@
 
 I combine CTF practice and blue-team labs with software and game development. I enjoy understanding how systems behave, investigating findings and building practical tools.
 
-[Portfolio](https://scirtor.com) · [LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82-996863316/) · [Games on itch.io](https://scirtor.itch.io) · [Minecraft on YouTube](https://www.youtube.com/@adori.eterno)
+[Portfolio](https://scirtor.com) · [LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82-996863316/) · [Games on itch.io](https://scirtor.itch.io) · [Cybersecurity on YouTube](https://www.youtube.com/@DetectiveZhang) · [Minecraft on YouTube](https://www.youtube.com/@adori.eterno)
 
 ## Security focus
 
@@ -20,10 +20,9 @@ Tools I use in labs and projects: **Python, Linux, Nmap, Wireshark, Burp Suite a
 | --- | --- | --- |
 | **Interactive portfolio** | A game-like portfolio built with Next.js, TypeScript and Pixi.js | [Live](https://scirtor.com) · [Code](https://github.com/Scirtor/interactive-cv) |
 | **Lost & Found** | A Django/PostgreSQL web application for lost and found items | [Live](https://lostfound.scirtor.com) · [Code](https://github.com/Scirtor/django-project) |
+| **StarJump** | A Python/Pygame platformer rebuilt from my 2024 college graduation project, with browser play, touch controls and an offline Android preview | [Play / download](https://scirtor.itch.io/starjump) · [Code](https://github.com/Scirtor/StarJump) |
 | **Catygan** | A Unity/C# game-jam project: collect symbols and craft cats in 60-second rounds | [Play / download](https://scirtor.itch.io/catygan) |
 | **Cryptography practice** | Course notes, algorithm implementations and exercises | [Repository](https://github.com/Scirtor/cryptofraphy_aitu_2nd_course) |
-
-I also developed **Star Jump**, a Python/Pygame platformer, for my college graduation project.
 
 ## Hands-on learning
 
