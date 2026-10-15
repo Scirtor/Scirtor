@@ -4,7 +4,7 @@
 
 I combine CTF practice and blue-team labs with software and game development. I enjoy understanding how systems behave, investigating findings and building practical tools.
 
-[Portfolio](https://scirtor.com) · [LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82-996863316/) · [Games on itch.io](https://scirtor.itch.io) · [Cybersecurity on YouTube](https://www.youtube.com/@DetectiveZhang) · [Minecraft on YouTube](https://www.youtube.com/@adori.eterno)
+[Portfolio](https://scirtor.com) · [LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82-996863316/) · [Games on itch.io](https://scirtor.itch.io) · [Cybersecurity on YouTube](https://www.youtube.com/@DetectiveZhang)
 
 ## Security focus
 
@@ -33,7 +33,7 @@ Tools I use in labs and projects: **Python, Linux, Nmap, Wireshark, Burp Suite a
 
 ## Beyond security
 
-I make games, experiment with interactive web experiences and create Minecraft content as **Adori (Eterno)**.
+I make games and experiment with interactive web experiences.
 
 **Open to Junior Penetration Tester and Junior SOC Analyst opportunities.** Connect with me on [LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82-996863316/).
 
