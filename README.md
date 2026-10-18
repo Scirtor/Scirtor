@@ -2,7 +2,7 @@
 
 **Junior Cybersecurity Specialist — Penetration Testing & SOC Analysis**
 
-I combine CTF practice and blue-team labs with software and game development. I enjoy understanding how systems behave, investigating findings and building practical tools.
+I combine CTF practice and blue-team labs with Python, data analysis and machine learning projects. I focus on understanding system behaviour, investigating findings and documenting reproducible results. I also build web applications and games.
 
 [Portfolio](https://scirtor.com) · [LinkedIn](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B6%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82-996863316/) · [Games on itch.io](https://scirtor.itch.io) · [Cybersecurity on YouTube](https://www.youtube.com/@DetectiveZhang)
 
@@ -12,12 +12,13 @@ I combine CTF practice and blue-team labs with software and game development. I 
 - **SOC foundations:** network traffic analysis, security investigation and blue-team labs.
 - **CTFs & OSINT:** tracing evidence, testing ideas and documenting the reasoning.
 
-Tools I use in labs and projects: **Python, Linux, Nmap, Wireshark, Burp Suite and Git**.
+Tools I use in labs and projects: **Python, Linux, Nmap, Wireshark, Burp Suite and Git**. For data work: **pandas, NumPy, scikit-learn and Jupyter**.
 
 ## Selected work
 
 | Project | What it explores | Links |
 | --- | --- | --- |
+| **ML intrusion detection** | NSL-KDD benchmark with reproducible preprocessing, validation-based model selection and official test evaluation; developed from a credited team project | [Code and results](https://github.com/Scirtor/nsl-kdd-intrusion-detection) |
 | **Interactive portfolio** | A game-like portfolio built with Next.js, TypeScript and Pixi.js | [Live](https://scirtor.com) · [Code](https://github.com/Scirtor/interactive-cv) |
 | **Lost & Found** | A Django/PostgreSQL web application for lost and found items | [Live](https://lostfound.scirtor.com) · [Code](https://github.com/Scirtor/django-project) |
 | **StarJump** | A Python/Pygame platformer rebuilt from my 2024 college graduation project, with browser play, touch controls and an offline Android preview | [Play / download](https://scirtor.itch.io/starjump) · [Code](https://github.com/Scirtor/StarJump) |
